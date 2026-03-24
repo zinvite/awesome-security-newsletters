@@ -55,6 +55,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [The CyberSecurity Club](https://thecybersecurityclub.beehiiv.com/) - Provides a short summary on all the key topics you may have missed for the week, covering threat intelligence, cybersecurity trends & insights, regulatory developments and vulnerability news.
 
+- [defend.network Daily Briefing](https://defend.network) - AI-generated daily cybersecurity threat briefings structured by threat type, industry, and severity, with weekly vulnerability reports and remediation steps. Free, no signup required — [RSS feed](https://defend.network/feed.xml).
+
 - [TLDR Information Security](https://tldr.tech/infosec) - A daily newsletter delivering the latest news, research, and tools.
 
 - [Vulnerable U](https://vulnu.mattjay.com/) - A weekly security newsletter "building resilience" - by Matt Johansen ([@mattjay](https://twitter.com/mattjay))
